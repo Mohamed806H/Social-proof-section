@@ -4,12 +4,12 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Screenshot
 
-
+![desktop-design](https://user-images.githubusercontent.com/91362640/192345757-ff39c79e-92e5-432a-92ba-d8bdea26dafd.jpg)
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://your-solution-url.com)
+- Live Site URL:(https://your-live-site-url.com)
 
 ## Built with
 
@@ -21,6 +21,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Author
 
-- Website - [Mohamed Hussein](https://www.your-site.com)
+- Website - [Mohamed Hussein](https://mohameds7s-portfolio.netlify.app/)
 - Frontend Mentor - [@Mohamed806H](https://www.frontendmentor.io/profile/Mohamed806H)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@Mohamed39991187](https://www.twitter.com/Mohamed39991187)
