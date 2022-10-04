@@ -12,7 +12,6 @@
 body{
   font-family: var(--font-base);
   font-size: 15px;
-  overflow: hidden;
 }
 * {
   box-sizing: border-box;
@@ -26,6 +25,12 @@ body{
   border-radius: 5px;
   background-color: var(--LightGrayishMagenta-color);
 }
+@media screen and (max-width:375px) {
+  .section-box{
+    width: 335px;
+    height: 80px;
+  }
+}
 .box-p{
   color: var(--Primary-color);
   font-weight: 700;
@@ -37,6 +42,11 @@ body{
   height: 238px;
   border-radius: 10px;
   background-color: var(--Primary-color);
+}
+@media screen and (max-width:375px) {
+  .section-card{
+    width: 338px;
+  }
 }
 .card-h2{
   position: absolute;

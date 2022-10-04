@@ -95,3 +95,88 @@ article.attribution{
   left: 37%;
   font-size: 20px;
 }
+@media screen and (max-width:375px) {
+  body{
+    overflow: visible;
+  }
+  article.app__section-top-leftside h1{
+    font-size: 35px;
+    margin-left: 45px;
+    margin-top: 50px;
+    width: 300px;
+    text-align: center;
+  }
+  article.app__section-top-leftside p{
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 15px;
+    width: 345px;
+  }
+  article.rightside__box-one{
+  position: relative;
+  left: 23px;
+  top: 50px;
+}
+article.rightside__box-one img{
+  position: absolute;
+  top: 18px;
+  left: 110px;
+}
+article.rightside__box-one p{
+  position: absolute;
+  top: 52px;
+  right: 65px;
+}
+article.rightside__box-two{
+  position: relative;
+  left: 23px;
+  top: 75px;
+}
+article.rightside__box-two img{
+  position: absolute;
+  top: 18px;
+  left: 110px;
+}
+article.rightside__box-two p{
+  position: absolute;
+  top: 52px;
+  right: 65px;
+}
+article.rightside__box-three{
+  position: relative;
+  left: 23px;
+  top: 100px;
+}
+article.rightside__box-three img{
+  position: absolute;
+  top: 18px;
+  left: 110px;
+}
+article.rightside__box-three p{
+  position: absolute;
+  top: 52px;
+  right: 65px;
+}
+article.bottom__card-one{
+  position: relative;
+  left: 20px;
+  top: 145px;
+}
+article.bottom__card-two{
+  position: relative;
+  left: 20px;
+  top: 175px;
+}
+article.bottom__card-three{
+  position: relative;
+  left: 20px;
+  top: 210px;
+}
+article.attribution{
+    position: relative;
+    top: 243px;
+    left: 7%;
+    width: 200px;
+    font-size: 23px;
+}
+}
