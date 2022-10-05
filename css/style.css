@@ -1,5 +1,5 @@
 section{
-  width: 1440px;
+  display: flex;
   height: 800px;
 }
 

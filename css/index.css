@@ -67,7 +67,7 @@ body{
   letter-spacing: 0.06em;
   color: var(--Seconed-color);
 }
-.card-p{
+.card-blockquote{
 font-weight: 400;
 line-height: 23px;
 letter-spacing: -0.06em;
