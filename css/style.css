@@ -117,7 +117,7 @@ article.rightside__box-one img{
   top: 18px;
   left: 110px;
 }
-article.rightside__box-one blockqoute{
+article.rightside__box-one blockquote{
   position: absolute;
   top: 52px;
   right: 65px;
@@ -132,7 +132,7 @@ article.rightside__box-two img{
   top: 18px;
   left: 110px;
 }
-article.rightside__box-two blockqoute{
+article.rightside__box-two blockquote{
   position: absolute;
   top: 52px;
   right: 65px;
@@ -147,25 +147,25 @@ article.rightside__box-three img{
   top: 18px;
   left: 110px;
 }
-article.rightside__box-three blockqoute{
+article.rightside__box-three blockquote{
   position: absolute;
   top: 52px;
   right: 65px;
 }
 article.bottom__card-one{
   position: relative;
-  left: 20px;
-  top: 145px;
+  left: 166px;
+  top: -105px;
 }
 article.bottom__card-two{
   position: relative;
-  left: 20px;
-  top: 175px;
+  left: 546px;
+  top: -305px;
 }
 article.bottom__card-three{
   position: relative;
-  left: 20px;
-  top: 210px;
+  right: -64.5%;
+  top: -510px;
 }
 article.attribution{
     position: relative;
