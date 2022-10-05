@@ -8,15 +8,14 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Links
 
-- Solution URL:(https://your-solution-url.com)
-- Live Site URL:(https://your-live-site-url.com)
+- Solution URL:(https://www.frontendmentor.io/solutions/social-proof-section)
+- Live Site URL:(https://mohamed806h.github.io/Social-proof-section)
 
 ## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Responsive-design
 
 ## Author
